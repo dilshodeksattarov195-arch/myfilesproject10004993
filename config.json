@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenualidate",
+        "uuid": 18174520,
+        "checksum": "31s10q"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
